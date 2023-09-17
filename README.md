@@ -1,3 +1,3 @@
-# DP-with-Java
+# Leetcode-Java
 
-Solving Dynamic Programming Problems with Java.
+Solving Leetcode Problems in Java.
